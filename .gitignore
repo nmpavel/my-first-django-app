@@ -1,3 +1,4 @@
 crud_venv
 db.session.sql
 __pycache__
+.vscode
